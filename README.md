@@ -78,14 +78,9 @@ CoTrue Analysis is an interactive web-based application designed to streamline t
 
 The carbon emissions are calculated using the formula:
 
-\[
-\text{Carbon Emission (kg CO₂)} = \left( \frac{\text{Execution Time (seconds)}}{3600} \right) \times 0.2 \times \left( \frac{\text{Carbon Intensity (gCO₂/kWh)}}{1000} \right)
-\]
+```math
+Carbon Emission (kg CO₂) = (Execution Time (seconds) / 3600) × 0.2 × (Carbon Intensity (gCO₂/kWh) / 1000)
 
-- **Carbon Intensity Values**:
-  - Carbon intensity data for different countries is stored in the app, enabling users to select their country for accurate calculations.
-
----
 
 ## **Setup Instructions**
 

@@ -78,7 +78,7 @@ CoTrue Analysis is an interactive web-based application designed to streamline t
 
 The carbon emissions are calculated using the formula:
 
-```math
+math
 Carbon Emission (kg CO₂) = (Execution Time (seconds) / 3600) × 0.2 × (Carbon Intensity (gCO₂/kWh) / 1000)
 
 

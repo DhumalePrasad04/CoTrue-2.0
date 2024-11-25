@@ -1,4 +1,4 @@
-# CoTrue Analysis: Code Optimization and Carbon Emission Estimation Tool
+# CoTrue Analysis: AI Code Optimization and Carbon Emission Estimation Tool
 
 ## **Overview**
 
